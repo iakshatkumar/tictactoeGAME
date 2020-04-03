@@ -1,4 +1,4 @@
-//Instruction to Play Game//
+                  ################Instruction to Play Game#####################
 
 THIS IS A TIC-TAC-TOE GAME.
 
