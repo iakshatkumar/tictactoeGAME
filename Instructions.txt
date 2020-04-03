@@ -1,0 +1,8 @@
+//Instruction to Play Game//
+
+THIS IS A TIC-TAC-TOE GAME.
+
+-> Player1 has X sign.
+-> Player2 has O sign.
+
+
