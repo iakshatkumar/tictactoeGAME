@@ -13,7 +13,7 @@ bool draw=false;
 void display_board()
 {
 	system("cls");
-	cout<<endl<<"\t\t\t\tTICK TAC TOE\t\t\t\t"<<endl;
+	cout<<endl<<"\t\t\t\tTIC TAC TOE\t\t\t\t"<<endl;
 	
 	cout<<"\tPlayer1[x]"<<endl<<"\tPlayer2[O]"<<endl<<endl;
 
